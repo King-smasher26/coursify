@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a67f9146.css",
+    "main.js": "/static/js/main.df21b579.js",
+    "static/js/787.8cdeff82.chunk.js": "/static/js/787.8cdeff82.chunk.js",
+    "static/media/7800259(2).jpg": "/static/media/7800259(2).ccc3e2b426020f385c0e.jpg",
+    "static/media/fun-3d-cartoon-illustration-indian-businessman 1.png": "/static/media/fun-3d-cartoon-illustration-indian-businessman 1.b0c3c7b6c59ce903302b.png",
+    "static/media/amazon-png-logo-vector-6695.png": "/static/media/amazon-png-logo-vector-6695.303024a00c373e75b9a8.png",
+    "static/media/flipkart-logo-39906.png": "/static/media/flipkart-logo-39906.47ff22790b3871c932f2.png",
+    "static/media/TCS Tata Consultancy Services.svg": "/static/media/TCS Tata Consultancy Services.34c6e86b700e860fcda819027d0f3053.svg",
+    "static/media/Cognizant-Logo.wine.svg": "/static/media/Cognizant-Logo.wine.4fc21996fb560ed89b39782ff518a6fc.svg",
+    "static/media/Tech_Mahindra-Logo.wine.svg": "/static/media/Tech_Mahindra-Logo.wine.7d9d708b57ac649f4157553570d8ded5.svg",
+    "static/media/accenture-2.svg": "/static/media/accenture-2.3355b1e525b9e059b2ae642e5d401411.svg",
+    "static/media/infosys-technologies-logo.svg": "/static/media/infosys-technologies-logo.2242fb471c8cd928dcb9aed812b4176f.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/nvidia-ar21.svg": "/static/media/nvidia-ar21.ba9c4b85bde94fbad8274da0c839cfd1.svg",
+    "main.a67f9146.css.map": "/static/css/main.a67f9146.css.map",
+    "main.df21b579.js.map": "/static/js/main.df21b579.js.map",
+    "787.8cdeff82.chunk.js.map": "/static/js/787.8cdeff82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67f9146.css",
+    "static/js/main.df21b579.js"
+  ]
+}
