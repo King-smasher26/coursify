@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+This is a Responsive digital recruitment solution app aimed
+at providing a seamless hiring experience for multiple MNCs.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Technology used - 
+React+gsap+bootstrap(minimal)
 
-## Available Scripts
+The Working :-
 
-In the project directory, you can run:
+There are basically 3 main components :-
 
-### `npm start`
+(The data has been taken from a random data generator and API mocking tool - Mockaroo and there are only 100 datasets taken into account but all the functionality is working .... you can cross check it by looking at files "Data.js" and "Logindataset" )
+1. Landing page 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Login page 
+    
+Secure login page -> takes input from the user -> matches it with the database array (i.e. Logindataset.js ) -> matches it with user's email and password -> shows "login successful" alert msg.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Candidate Search 
 
-### `npm test`
+We take 3 data points as input for now i.e. gender, country and job profile.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The data of potential Candidates is stored in Data.js 
 
-### `npm run build`
+the data is fetched and map to give a table of potential employees to the company that wants to recruit them. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+------- Now here are some Potential Modifications ------
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Better filtering of data of potential candidates.
+2. Increasing no. of hiring attributes such as "work from home" , "skills knowns" etc.
+3.making the Login 2 ways ->(1) for the companies that want to hire employees and (2) for the candidates that are registered
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+--------- thank you for looking at this webapp --------
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+       MADE BY - Aman Bisht
