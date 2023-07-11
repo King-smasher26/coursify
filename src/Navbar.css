@@ -1,0 +1,116 @@
+  *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+nav{
+      font-family: Barlow-Condensed;
+    background-color: #222222b3;
+    color: white;
+    height: 47px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+  }
+  label.logo{
+    color: white;
+    font-size: 35px;
+    line-height: 44px;
+    padding: 0;
+    font-weight: bold;
+    font-family: 'Irish Grover';
+    margin-left: 5px;
+  }
+  nav ul{
+    float: right;
+    margin-right: 20px;
+    /* border: 1px solid white; */
+  }
+  nav ul li {
+    display: inline-block;
+    line-height: 44px;
+    margin: 0 15px;
+    font-family: 'Corben';
+  } 
+  nav ul li a {
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding : 8px 20px
+  }
+  
+  nav ul li a:hover{
+    background-color: #222222;
+    color: white;
+  }
+  
+  
+  #checkbtn{
+    float: right;
+    line-height: 44px;
+    margin-right: 10px;
+    font-size: 30px;
+    color: white ;
+    display: none;
+  }
+  #check{
+    display: none;
+  }
+  #check:checked ~ ul{
+    left: 0%;
+  }
+  @media (max-width: 770px){
+    
+    nav{
+      text-align: center;
+    }
+    .logo{
+      margin-left: 40px;
+    }
+    #checkbtn{
+      display: block;
+      float: left;
+    }
+    nav ul{
+      width: 40%;
+      text-align: center;
+      /* height: 27vh; */
+      background-color: black;
+      position: fixed;
+      /* top: 80px; */
+      left: -100%;
+      float: left;
+      padding: 0 0 0 0;
+    }
+    nav ul li {
+      /* display: block; */
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      margin:0 0 0 0;
+      border: 1px solid white;
+      
+    }
+  }
+  
+  #container{
+    background-color: blue;
+  }
+  #linktohome{
+    
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    line-height: 44px;
+    padding: 0;
+    font-weight: bold;
+    font-family: 'Irish Grover';
+    margin-left: 5px;
+  }
+  #linktohome:hover{
+    color: rgb(97, 94, 94);
+  }
