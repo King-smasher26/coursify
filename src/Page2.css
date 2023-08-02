@@ -83,12 +83,12 @@
     justify-content: space-around;
     /* background-color: rgb(49, 43, 87); */
     width: 100vw;
-    background-color: #ffffff;
     height: 14vh;
+    background-color: #d6d1d1;
 }
 #P2D2{
     width: 100vw;
-    background-color: #ffffff;
+    background-color: #d6d1d1;
     height: 20vh;
     /* font-size: 32px; */
     margin-top: 5vw;

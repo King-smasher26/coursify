@@ -27,7 +27,7 @@
 }
 #LPC2{
     height: 35vw;
-    width: 50vw;
+    width: 60vw;
     display: inline-block;
     margin: 0 auto;
     
@@ -40,6 +40,37 @@
     transform:translateY(115px);
     transition:transfrom .5s;
   }
+@media screen and (max-width:650px) {
+    #Total-land2-div{
+        display: flex;
+        /* border: 10px solid pink; */
+        flex-direction: column-reverse;
+    }
+    #LPC2{
+        width: 85vw;
+        height: 35vh;
+        margin-top: 4vh;
+    }
+    #LPC1{
+        width: 80vw;
+        border-radius: 5vw;
+        font-size: 4vw;
+    }
+    
+}
+@media screen and (max-width:450px) {
+    #LPC2{
+    
+        height: 28vh;
+    }
+    #LPC1{
+        width: 80vw;
+        border-radius: 5vw;
+        font-size: 4.7vw;
+        height: 20vh;
+    }
+    
+}
 
 
   
