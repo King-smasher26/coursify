@@ -1,7 +1,7 @@
 .StepSection{
     width: 80vw;
-    height: 100vh;
-    border: 2px solid red;
+    height: 60vh;
+    /* border: 2px solid red; */
 }
 .section-img{
     width: 4vw;
@@ -9,7 +9,7 @@
     /* height: ; */
 }
 .section-container{
-    height: 100vh;
+    height: 60vh;
     display: flex;
     align-items: center;
     justify-content: space-evenly;

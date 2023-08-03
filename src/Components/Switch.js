@@ -31,12 +31,17 @@ for(var i=0; inputElements[i]; ++i){
 			<input type='checkbox' className='messageCheckbox' onClick={thecheck}/>
 			<span className='slider'/>
 		</label>
-        <div style={{marginTop:"100px"}}><h1>{hiring}</h1></div>
+        {/* <div style={{marginTop:"100px"}}><h1>{hiring}</h1></div> */}
     </div>
         <div className='thestepsection'>
         {
             hiring=="Candidate"?<StepSection/>:<StepSection2/>
         }
+        <div className='switch-btn'>
+
+        <button>Login</button>
+        <button>Signup</button>
+        </div>
         </div>
     </>
   )

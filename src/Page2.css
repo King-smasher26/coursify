@@ -84,11 +84,13 @@
     /* background-color: rgb(49, 43, 87); */
     width: 100vw;
     height: 14vh;
-    background-color: #d6d1d1;
+    /* background-color: #d6d1d1; */
+    background-color: aliceblue;
 }
 #P2D2{
     width: 100vw;
-    background-color: #d6d1d1;
+    /* background-color: #d6d1d1; */
+    background-color: aliceblue;
     height: 20vh;
     /* font-size: 32px; */
     margin-top: 5vw;
