@@ -87,8 +87,8 @@ input:checked + .slider::before {
     }
     .switch-btn{
         width: 90vw;
-        margin-top: 10px;
     }
     .switch-btn button{
+        margin-top: 10px;
     }
 }
