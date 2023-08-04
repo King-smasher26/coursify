@@ -74,7 +74,7 @@ export default function Page2() {
       </div>
       <div className='thediv'>
 
-      <div id='P2D2'><h1>Many of thasdfe World's largest companies rely on FindEMP</h1></div>
+      <div id='P2D2'><h1>Many of the World's largest companies rely on FindEMP</h1></div>
       <div id='P2D3'>
         <img className='logo-img' src={img6}/>
         <img className='logo-img' src={img3}/>
