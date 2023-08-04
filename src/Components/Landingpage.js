@@ -7,6 +7,7 @@ import { Route , Routes} from 'react-router-dom';
 import Switch from './Switch'
 import "../Landingpage.css"
 import StepSection from './StepSection'
+import TheFooter from './TheFooter'
 export default function Landingpage() {
   return (
     <div className='lpa'>
@@ -15,6 +16,7 @@ export default function Landingpage() {
         <Page2/>
         <div className='theswitch'>
         <Switch/>
+        <TheFooter/>
         </div>
     </div>
   )

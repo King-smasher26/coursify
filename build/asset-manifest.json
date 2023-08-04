@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.15282936.css",
-    "main.js": "/static/js/main.109bb2ef.js",
+    "main.css": "/static/css/main.5a717d33.css",
+    "main.js": "/static/js/main.423579df.js",
     "static/js/787.8cdeff82.chunk.js": "/static/js/787.8cdeff82.chunk.js",
     "static/media/7800259(2).jpg": "/static/media/7800259(2).ccc3e2b426020f385c0e.jpg",
     "static/media/fun-3d-cartoon-illustration-indian-businessman 1.png": "/static/media/fun-3d-cartoon-illustration-indian-businessman 1.b0c3c7b6c59ce903302b.png",
@@ -14,12 +14,12 @@
     "static/media/infosys-technologies-logo.svg": "/static/media/infosys-technologies-logo.2242fb471c8cd928dcb9aed812b4176f.svg",
     "static/media/nvidia-ar21.svg": "/static/media/nvidia-ar21.ba9c4b85bde94fbad8274da0c839cfd1.svg",
     "index.html": "/index.html",
-    "main.15282936.css.map": "/static/css/main.15282936.css.map",
-    "main.109bb2ef.js.map": "/static/js/main.109bb2ef.js.map",
+    "main.5a717d33.css.map": "/static/css/main.5a717d33.css.map",
+    "main.423579df.js.map": "/static/js/main.423579df.js.map",
     "787.8cdeff82.chunk.js.map": "/static/js/787.8cdeff82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15282936.css",
-    "static/js/main.109bb2ef.js"
+    "static/css/main.5a717d33.css",
+    "static/js/main.423579df.js"
   ]
 }
