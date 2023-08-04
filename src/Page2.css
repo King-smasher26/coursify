@@ -104,7 +104,7 @@
 
 @media screen and (max-width:1100px) {
     #P2D2{
-        border: 3px solid red;
+        /* border: 3px solid red; */
         height: 15vh;
     }
     #P2D3{
@@ -118,7 +118,7 @@
 }
 @media screen and (max-width:800px) {
     #P2D2{
-        border: 3px solid rgb(229, 118, 137);
+        /* border: 3px solid rgb(229, 118, 137); */
         height: 15vh;
     }
     #P2D2 h1{
@@ -136,7 +136,7 @@
 }
 @media screen and (max-width:600px) {
     #P2D2{
-        border: 3px solid rgb(94, 42, 182);
+        /* border: 3px solid rgb(94, 42, 182); */
         height: 13vh;        
     }
     #P2D2 h1{
@@ -155,7 +155,7 @@
 }
 @media screen and (max-width:450px) {
     #P2D2{
-        border: 3px solid rgb(80, 164, 61);
+        /* border: 3px solid rgb(80, 164, 61); */
         height: 11vh;        
     }
     #P2D2 h1{
