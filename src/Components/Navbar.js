@@ -12,8 +12,9 @@ export default function Navbar() {
       <label for="check" class="checkbtn"></label>
       <ul>
 
-        <li><Link to="/viewdata">Find Candidate</Link></li>
-        <li><Link to="/login">Login</Link></li>
+        <li><Link to="/">Discover</Link></li>
+        <li><Link to="/">Contact Us</Link></li>
+        <li><Link to="/">Login</Link></li>
       </ul>
        </nav>
     </div>
