@@ -76,7 +76,7 @@ nav{
       float: left;
     }
     nav ul{
-      width: 40%;
+      width: 100%;
       text-align: center;
       /* height: 27vh; */
       background-color: black;
@@ -85,6 +85,10 @@ nav{
       left: -100%;
       float: left;
       padding: 0 0 0 0;
+      border-radius: 4px;
+      border: 2px solid white;
+      transition: all .5s ease-in-out;
+
     }
     nav ul li {
       /* display: block; */
@@ -93,6 +97,9 @@ nav{
       text-align: center;
       margin:0 0 0 0;
       border: 1px solid white;
+      border: none;
+      border-bottom: 2px solid white;
+      border-top: 2px solid white;
       
     }
   }
