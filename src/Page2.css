@@ -132,6 +132,11 @@
         height: 10vh;
         width: 15vw;
     }
+    #P2T1{
+        font-size: 5vw;
+        margin-top: 10px;
+    }
+
     
 }
 @media screen and (max-width:600px) {
@@ -170,5 +175,9 @@
     .logo-img{
         height: 8vh;
         width: 20vw;
+    }
+    #P2T1{
+        font-size: 5.5vw;
+        margin-top: 20px;
     }
 }
